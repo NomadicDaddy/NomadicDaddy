@@ -26,6 +26,10 @@ timestamps), [wopr-decryptor](https://github.com/NomadicDaddy/wopr-decryptor),
 [data-dictionary](https://github.com/NomadicDaddy/CodeWrangler) archive from a longer stretch
 of database work. A few repositories are still here from 2002-2004 and are staying that way.
 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=NomadicDaddy&show_icons=true&theme=radium)
+![GitHub Streak](https://streak-stats.demolab.com/?user=NomadicDaddy&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NomadicDaddy&layout=compact&theme=vision-friendly-dark)
+
 ### How I work
 
 - **Local-first by default.** No accounts, no hosted service, no telemetry leaving the machine. If it needs a cloud to function, I would rather it not exist.
