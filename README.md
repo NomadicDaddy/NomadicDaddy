@@ -8,7 +8,7 @@ agents focused, contained, and accountable.
 What I'm working on:
 
 - [**aidd**](https://github.com/NomadicDaddy/aidd), a local control panel for AI coding work. It
-  runs a plan → code → audit → review loop across different agents and models. aidd builds aidd,
+  runs a plan → run → audit → review loop across different agents and models. aidd builds aidd,
   and the [receipts](https://github.com/NomadicDaddy/aidd-build-proofs) are public.
   [Overview and guides](https://nomadicdaddy.github.io/aidd/).
 - [**spernakit**](https://github.com/NomadicDaddy/spernakit), a full-stack application template
