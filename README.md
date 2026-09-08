@@ -2,14 +2,14 @@ Database Administration &middot; Local-First/Self-Hosting Development &middot; A
 Agentic AI Workflows
 
 I manage people and systems that manage data. I build local-first developer tools and self-hosted
-apps on one toolchain across over a dozen repositories, with a particular interest in keeping AI
+apps on one toolchain across multiple repositories, with a particular interest in keeping AI
 agents focused, contained, and accountable.
 
 What I'm working on:
 
 - [**aidd**](https://github.com/NomadicDaddy/aidd), a local control panel for AI coding work. It
   runs a plan → run → audit → review loop across different agents and models. aidd builds aidd,
-  and the [receipts](https://github.com/NomadicDaddy/aidd-build-proofs) are public.
+  and the [proofs](https://github.com/NomadicDaddy/aidd-build-proofs) are public.
   [Overview and guides](https://nomadicdaddy.github.io/aidd/).
 - [**spernakit**](https://github.com/NomadicDaddy/spernakit), a full-stack application template
   with auth, RBAC, workspaces, audit logs, scheduled work, and its own admin UI. Bun, Elysia,
