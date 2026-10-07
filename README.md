@@ -8,8 +8,9 @@ agents focused, contained, and accountable.
 What I'm working on:
 
 - [**aidd**](https://github.com/NomadicDaddy/aidd), a local control panel for AI coding work. It
-  runs a plan → run → audit → review loop across different agents and models. aidd builds aidd,
-  and the [proofs](https://github.com/NomadicDaddy/aidd-build-proofs) are public.
+  runs a plan → run → audit → review loop across different agents and models. aidd builds aidd.
+  Historical [build proofs](https://github.com/NomadicDaddy/aidd-build-proofs) from seven
+  instrumented application builds are public.
   [Overview and guides](https://nomadicdaddy.github.io/aidd/).
 - [**spernakit**](https://github.com/NomadicDaddy/spernakit), a full-stack application template
   with auth, RBAC, workspaces, audit logs, scheduled work, and its own admin UI. Bun, Elysia,
@@ -20,15 +21,14 @@ What I'm working on:
   credentials, permissions, and dynamic tools an AI agent can reach.
 
 Also here: [podex](https://github.com/NomadicDaddy/podex), a PowerShell/Pode + htmx starter
-framework, and [starsync](https://github.com/NomadicDaddy/starsync), which keeps local copies of
-your starred repositories before they disappear. Digging deeper into the back catalog, it gets
+framework, and [starsync](https://github.com/NomadicDaddy/starsync), which archives starred GitHub
+or Codeberg repositories locally. Digging deeper into the back catalog, it gets
 strange: [SemVer encoded into timestamps](https://github.com/NomadicDaddy/semts), a
 [WOPR decryption countdown](https://github.com/NomadicDaddy/wopr-decryptor), a
 [SQL](https://github.com/NomadicDaddy/eskew-ale) /
 [data-dictionary](https://github.com/NomadicDaddy/CodeWrangler) archive from a longer stretch of
 database work, and [iHTML](https://github.com/NomadicDaddy/iHTML) and
-[Perl](https://github.com/NomadicDaddy/Perl) that have been sitting here since 2002 and are
-staying that way.
+[Perl](https://github.com/NomadicDaddy/Perl) from the early 2000s, preserved as archives.
 
 Contact: [phillip@beazley.org](mailto:phillip@beazley.org) &middot;
 [field notes](https://beazley.org/) &middot;
