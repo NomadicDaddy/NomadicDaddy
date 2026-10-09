@@ -4,3 +4,6 @@
 node_modules/
 package-lock.json
 bun.lock
+
+# Local aidd metadata and review evidence are not profile content.
+/.aidd/
